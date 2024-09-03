@@ -1,0 +1,8 @@
+a = input('Escreva valor de A: ')
+b = input ('Escreva valor de B: ')
+auxiliarA = (a)
+print ('\n')
+print ('O valor inicial de A é: ', (a),"\n")
+print ('O valor inicial de B é: ', (b),"\n")
+print ('Novo Valor de A é: ', (b),"\n")
+print ('Novo Valor de B é: ', (auxiliarA),"\n")

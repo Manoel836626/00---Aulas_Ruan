@@ -1,0 +1,6 @@
+numeroUm = float (input('Escreva o primeiro número: '))
+numeroDois = float (input('Escreva o segundo número: '))
+soma = (numeroUm + numeroDois)
+print ('O primeiro numero é: ', int (numeroUm))
+print ('O segundo número é: ', int(numeroDois))
+print ('A soma total é: ', int(soma))
